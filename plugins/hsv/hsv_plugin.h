@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2024 Ar-Ray-code
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 #ifndef HSV_PLUGIN_H
 #define HSV_PLUGIN_H
 

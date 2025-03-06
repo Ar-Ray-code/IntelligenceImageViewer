@@ -1,2 +1,2 @@
-# OpenIntelligenceImageViewer
-Open Intelligence Image Viewer
+# IntelligenceImageViewer
+Intelligence Image Viewer

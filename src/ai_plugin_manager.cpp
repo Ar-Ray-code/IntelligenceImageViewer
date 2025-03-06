@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2024 Ar-Ray-code
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 #include "ai_plugin_manager.h"
 #include <QDebug>
 #include <QThread>

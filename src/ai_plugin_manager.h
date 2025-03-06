@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2024 Ar-Ray-code
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 #ifndef AI_PLUGIN_MANAGER_H
 #define AI_PLUGIN_MANAGER_H
 
