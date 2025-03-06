@@ -1,0 +1,4 @@
+tasks:
+  common:
+    - name: "hsv"
+    - pluginpath: plugins/libhsv_plugin.so
